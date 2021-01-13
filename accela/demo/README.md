@@ -1,7 +1,7 @@
 # accelaAssessment
 TechnicalAssessment
 This project is a command line based application to basically perform crud operations.
-The application make use of SpringBoot and different Spring modules, also Project Lombok, Hibernate, H2 Embedded Database and Maven as project builder.
+The application make use of SpringBoot, Project Lombok, Hibernate, H2 Embedded Database and Maven.
 To execute the application using maven, just enter terminal window, move to the inner project folder "accela\demo" and execute this command:
 mvnw spring-boot:run
 The application provides a main menù:
